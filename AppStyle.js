@@ -12,14 +12,7 @@ export const styles = StyleSheet.create({
       height: 100,
       width: 100,
       backgroundColor:"blue",
-      borderRadius:50
-    },
-    bottom:{
-      backgroundColor: 'white',
-      height: '20%',
-      width: '100%',
-      alignItems: "center",
-      justifyContent: 'center',
+      borderRadius:50,
     },
     pokeImage:{
       height:300,
