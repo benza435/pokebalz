@@ -22,8 +22,13 @@ export const styles = StyleSheet.create({
       justifyContent: 'center',
     },
     pokeImage:{
-      height:200,
-      width: 200,
+      height:300,
+      width: 300,
+    },
+    name:{
+      fontSize: 20,
+      fontWeight: "bold",
+      color: 'white'
     }
   
   })
