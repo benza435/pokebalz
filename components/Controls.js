@@ -1,8 +1,6 @@
 import * as React from "react";
 import {styles} from '../AppStyle'
 import { StyleSheet, View, Text, Image, TouchableOpacity } from "react-native";
-import { getRandomPokemon } from "../mvc/gets";
-
 
 const Controls = (props) => {
     return (
